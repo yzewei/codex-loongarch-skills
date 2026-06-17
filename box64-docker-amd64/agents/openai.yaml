@@ -1,0 +1,4 @@
+interface:
+  display_name: "Box64 Docker AMD64"
+  short_description: "Run amd64 commercial containers on LoongArch"
+  default_prompt: "Use $box64-docker-amd64 to test an amd64 commercial Docker image with the local static Box64 build."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "LoongArch Python Wheels"
+  short_description: "Build Python 3.11 LoongArch wheels in manylinux_2_38 containers."
+  default_prompt: "Build or audit a Python 3.11 LoongArch dependency stack using manylinux_2_38 Docker, lpypi, PyPI, and a local wheelhouse."
